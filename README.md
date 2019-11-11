@@ -1,4 +1,4 @@
-# Evaluacion Pruebas
+# Evaluación Pruebas
 ## Pruebas Choucair Testing Sección Servicios
 
 ### ENVIRONMENT SET UP
@@ -10,7 +10,7 @@
 
 #### SET UP WINDOWS
 
-- En ./src/test/java/pom/Base.java:25 Modificar: DRIVER_LINUX Por: DRIVER_WINDOWS
+- En ./src/test/java/pom/Base.java:25 Reemplazar el parámetro DRIVER_LINUX por DRIVER_WINDOWS
 
 
 
